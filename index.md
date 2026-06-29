@@ -31,14 +31,6 @@ The following list of topics should be discussed:
 - A guidance document for creating VCDM-based DPPs. 
 - A test-suite for DPPs based on VCDM ?
 - A DPP-playground like environment
-- An example of an EU-DPP implementation based on VCDM. 
+- An example of an EU-DPP implementation based on VCDM.
 
-With some content. I can _emphasize_ **bold**, and ***bold emphasize*** bits of texts. Respec will automatically create a TOC, b.t.w.
-<img width="9590" height="100" alt="image" src="https://github.com/user-attachments/assets/0f75a420-8524-41b6-9024-02308d1b0fed" />
-
-See [Respec's user guide](https://github.com/w3c/respec/wiki/User's-Guide) for respec-specific editing tricks. There are some others in [respec](https://respec.org/docs/#markdown).
-
-- create bullet lists like this
-    - with sublists
-- and continue the list on the top level
 
